@@ -1,0 +1,17 @@
+{
+  "true_damping_per_s": 0.25,
+  "learned_damping_per_s": 0.26791539788246155,
+  "trajectory_rmse_rad": 0.010216478989512423,
+  "config": {
+    "epochs": 6000,
+    "warmup": 2000,
+    "points": 40,
+    "collocation": 128,
+    "noise": 0.03,
+    "duration": 6.0,
+    "true_damping": 0.25,
+    "seed": 42,
+    "width": 32,
+    "lr": 0.001
+  }
+}
